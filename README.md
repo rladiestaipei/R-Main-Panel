@@ -29,4 +29,10 @@
             <li> <a href="" target="_blank">翻玩空氣盒子--監控空氣品質</a> </li>
         </ul>
     </li>
+    <li> 2017-02 [Cloud Platform Series]
+        <ul type=square>
+            <li> <a href="" target="_blank">Azure Machine Learning</a> </li>
+            <li> <a href="" target="_blank">Azure Machine Learning - Feature Engineering </a> </li>
+        </ul>
+    </li>
 </ul>
