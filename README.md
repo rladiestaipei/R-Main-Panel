@@ -25,15 +25,15 @@
 <ul type=disc>
     <li> 2017-01 [Cloud Platform Series]
         <ul type=square>
-            <li> <a href="" target="_blank">Shiny on Azure</a> </li>
-            <li> <a href="" target="_blank">翻玩空氣盒子--監控空氣品質</a> </li>
+            <li> <a href="https://github.com/rladiestaipei/R-Ladies-Taipei/blob/master/ShinyOnAzure.pdf" target="_blank">Shiny on Azure</a> </li>
+            <li> <a href="https://github.com/rladiestaipei/R-Ladies-Taipei/blob/master/%E7%A9%BA%E6%B0%A3%E7%9B%92%E5%AD%90%E4%B9%8Bopen%20data.pdf" target="_blank">翻玩空氣盒子--監控空氣品質</a> </li>
         </ul>
     </li>
     <li> 2017-02 [Cloud Platform Series]
         <ul type=square>
             <li> Azure Machine Learning </li>
-            <li> <a href="" target="_blank">Azure Machine Learning - Feature Engineering </a> </li>
-            <li> <a href="" target="_blank">R-Ladies Taipei How to Travel around the World with R-Ladies </a> </li>
+            <li> <a href="https://github.com/rladiestaipei/R-Ladies-Taipei/blob/master/AzureML-Feature%20Engineering.pdf" target="_blank">Azure Machine Learning - Feature Engineering </a> </li>
+            <li> <a href="https://github.com/rladiestaipei/R-Ladies-Taipei/blob/master/R-Ladies%20Taipei%20How%20to%20Travel%20around%20the%20World%20with%20R-Ladies.pdf" target="_blank">R-Ladies Taipei How to Travel around the World with R-Ladies </a> </li>
         </ul>
     </li>
 </ul>
