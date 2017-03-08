@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/rladiestaipei/R-Ladies-Taipei/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rladiestaipei/R-Ladies-Taipei/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>
+    <b>Mission</b><br>
+        R-ladies Taipei是以女性為優先的R 語言學習社群。<br>
+        不同於資訊、技術領域明顯落差的男女比，與男性為多數所形成的文化；<br>
+        我們期許R-ladies Taipei提供一個以女性為主、開放、自由交流的學習環境，鼓勵女性夥伴們在R語言應用、資料分析相關領域互相幫助，一同精進與成長。
+</p>
+<p>
+    <b>Role & Responsibility</b><br>
+        不管你是資料分析師、工程師，或者期望能夠運用R對資料解讀、分析、呈現及表達的各種專業，我們都歡迎您加入並參與R-ladies Taipei活動。<br>
+        Github: https://github.com/rladiestaipei<br>
+        Meetup: https://www.meetup.com/R-Ladies-Taipei/<br>
+</p>
+<p>
+    <b>Code of Conduct</b>
+    基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：<br>
+    <ul type=disc>
+        <li>發言的機會請優先留給女生</li>
+        <li>座位請優先保留給女生</li>
+        <li>必須為 R-Ladies Taipei 帶來貢獻，例如：提供高品質的 3分鐘技術閃電秀</li>
+    </ul>
+</p>    
+<hr size="1">
+## Meetup
+<ul type=disc>
+    <li> 2017-01 [Cloud Platform Series]
+        <ul type=square>
+            <li> <a href="" target="_blank">Shiny on Azure</a> </li>
+            <li> <a href="" target="_blank">翻玩空氣盒子--監控空氣品質</a> </li>
+        </ul>
+    </li>
+</ul>
