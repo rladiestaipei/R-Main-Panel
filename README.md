@@ -31,8 +31,9 @@
     </li>
     <li> 2017-02 [Cloud Platform Series]
         <ul type=square>
-            <li> <a href="" target="_blank">Azure Machine Learning</a> </li>
+            <li> Azure Machine Learning </li>
             <li> <a href="" target="_blank">Azure Machine Learning - Feature Engineering </a> </li>
+            <li> <a href="" target="_blank">R-Ladies Taipei How to Travel around the World with R-Ladies </a> </li>
         </ul>
     </li>
 </ul>
