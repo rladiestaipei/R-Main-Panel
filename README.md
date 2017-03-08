@@ -1,3 +1,4 @@
+## RLadies-Taipei
 <p>
     <b>Mission</b><br>
         R-ladies Taipei是以女性為優先的R 語言學習社群。<br>
@@ -11,7 +12,7 @@
         Meetup: https://www.meetup.com/R-Ladies-Taipei/<br>
 </p>
 <p>
-    <b>Code of Conduct</b>
+    <b>Code of Conduct</b><br>
     基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：<br>
     <ul type=disc>
         <li>發言的機會請優先留給女生</li>
