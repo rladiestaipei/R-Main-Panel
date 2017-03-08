@@ -8,8 +8,8 @@
 <p>
     <b>Role & Responsibility</b><br>
         不管你是資料分析師、工程師，或者期望能夠運用R對資料解讀、分析、呈現及表達的各種專業，我們都歡迎您加入並參與R-ladies Taipei活動。<br><br>
-        Github: https://github.com/rladiestaipei<br>
-        Meetup: https://www.meetup.com/R-Ladies-Taipei/<br>
+        Github: <a href="https://github.com/rladiestaipei" target="_blank">https://github.com/rladiestaipei</a><br>
+        Meetup: <a href="https://www.meetup.com/R-Ladies-Taipei/" target="_blank">https://www.meetup.com/R-Ladies-Taipei</a><br>
 </p>
 <p>
     <b>Code of Conduct</b><br>
