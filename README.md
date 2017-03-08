@@ -1,13 +1,13 @@
 ## RLadies-Taipei
 <p>
     <b>Mission</b><br>
-        R-ladies Taipei是以女性為優先的R 語言學習社群。<br>
-        不同於資訊、技術領域明顯落差的男女比，與男性為多數所形成的文化；<br>
+        R-ladies Taipei是以女性為優先的R 語言學習社群。
+        不同於資訊、技術領域明顯落差的男女比，與男性為多數所形成的文化；
         我們期許R-ladies Taipei提供一個以女性為主、開放、自由交流的學習環境，鼓勵女性夥伴們在R語言應用、資料分析相關領域互相幫助，一同精進與成長。
 </p>
 <p>
     <b>Role & Responsibility</b><br>
-        不管你是資料分析師、工程師，或者期望能夠運用R對資料解讀、分析、呈現及表達的各種專業，我們都歡迎您加入並參與R-ladies Taipei活動。<br>
+        不管你是資料分析師、工程師，或者期望能夠運用R對資料解讀、分析、呈現及表達的各種專業，我們都歡迎您加入並參與R-ladies Taipei活動。<br><br>
         Github: https://github.com/rladiestaipei<br>
         Meetup: https://www.meetup.com/R-Ladies-Taipei/<br>
 </p>
