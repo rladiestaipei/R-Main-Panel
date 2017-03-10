@@ -98,7 +98,7 @@
     <li> 2015-12 [Machine Learning for Hackers]<!-- 20151228 -->
         <ul class="task-list">
             <li> kNN: Recommendation Systems </li> <!-- May ch10 -->
-            <li>  </li> <!-- Jolin Hsieh   -->
+            <!-- Jolin Hsieh   -->
         </ul>    
     </li>
     <li> 2015-10 [Machine Learning for Hackers]<!-- 20151026 -->
