@@ -22,6 +22,7 @@
 </p>    
 <hr size="1">
 ## Meetup
+<!-- Main Panel , Lighting Talk  -->
 ### 2017 <br>
 <ul class="task-list">
     <li> 2017-02 [Cloud Platform Series]
@@ -37,4 +38,125 @@
             <li> <a href="https://github.com/rladiestaipei/R-Ladies-Taipei/blob/master/%E7%A9%BA%E6%B0%A3%E7%9B%92%E5%AD%90%E4%B9%8Bopen%20data.pdf" target="_blank">翻玩空氣盒子--監控空氣品質</a> </li>
         </ul>
     </li>
+</ul>    
+### 2016 <br>
+<ul class="task-list">
+    <li> 2016-12 <!-- 20161205 -->
+        <ul class="task-list">
+            <li> 擁抱跨界力 – CS+X 的新方向 Working With JavaScript In R </li>
+            <li> Power BI with R </li>
+        </ul>    
+    </li>
+    <li> 2016-09 <!-- 20160926 Ching Chen -->
+        <ul class="task-list">
+            <li> 從Azure Machine Learning 進入機器學習 </li>  <!-- Ching Chen -->
+        </ul>    
+    </li>
+    <li> 2016-08  <!-- 20160829 -->
+        <ul class="task-list">
+            <li> 運用 R 讀取開放資料 </li>  <!-- Lucy Chen -->
+            <li> ML on Azure </li>  <!-- 小石 -->
+        </ul>    
+    </li>
+    <li> 2016-07 <!-- 20160 -->
+        <ul class="task-list">
+            <li> 作自己的氣象預言大師 </li> <!-- Olly -->
+            <li> 深度學習keras淺淺淺淺談與實做 </li> <!-- Ed -->
+        </ul>    
+    </li>  
+    <li> 2016-06 <!-- 20160627 -->
+        <ul class="task-list">
+            <li> 看資料說故事——從《巴拿馬文件》談資料視覺化 </li> <!-- 孫玉峰  -->
+        </ul>    
+    </li>
+    <li> 2016-05 <!-- 20160530 --> 
+        <ul class="task-list">
+            <li> Spark Introduction </li> <!-- Erica Li -->
+        </ul>    
+    </li>
+    <li> 2016-04 <!-- 20160425 --> 
+        <ul class="task-list">
+            <li> 我被工程師問的二個問題: 關於光學與GPS定位 </li> <!-- 昱璇 -->
+            <li> Xdite的課到底值不值得</li> <!-- Mindy Huang -->
+        </ul>    
+    </li> 
+    <li> 2016-03 <!-- 20160328 --> 
+        <ul class="task-list">
+            <li> 運用R處理空間資料 </li> <!-- YuYu Peng -->
+            <li> Kyper 資料庫 </li> <!-- Yen -->
+        </ul>    
+    </li>
+    <li> 2016-01 [Machine Learning for Hackers] <!-- 20160125 --> 
+        <ul class="task-list">
+            <li> Model Comparison </li> <!-- Kristen Chan  ch12-->
+            <li> Power Map </li> <!-- Ann Wu   -->
+        </ul>    
+    </li>           
+</ul> 
+### 2015 <br>
+<ul class="task-list">
+    <li> 2015-12 [Machine Learning for Hackers]<!-- 20151228 -->
+        <ul class="task-list">
+            <li> kNN: Recommendation Systems </li> <!-- May ch10 -->
+            <li>  </li> <!-- Jolin Hsieh   -->
+        </ul>    
+    </li>
+    <li> 2015-10 [Machine Learning for Hackers]<!-- 20151026 -->
+        <ul class="task-list">
+            <li> MDS: Visually Exploring US Senator Similarity </li> <!-- Mindy Huang ch9 -->
+            <li> Text Mining </li>  <!-- Wei Ho  -->  
+        </ul>    
+    </li>
+    <li> 2015-07 [Machine Learning for Hackers]<!-- 20150729 -->
+        <ul class="task-list">
+            <li> PCA: Building a Market Index </li> <!-- Ivy H. Tseng​ ch8  -->
+            <li> 基礎R語言與商業應用：第八章股票市場的預測 </li> <!-- Yen  -->
+        </ul>    
+    </li>
+    <li> 2015-06 [Machine Learning for Hackers]<!-- 20150629 -->
+        <ul class="task-list">
+            <li> Regularization: Text Regression </li> <!-- EJ Li  ch6-->
+            <li> Computer Vision </li> <!-- Ivy H. Tseng  -->
+        </ul>    
+    </li>
+    <li> 2015-05 [Machine Learning for Hackers]<!-- 20150525 -->
+        <ul class="task-list">
+            <li> Regression: Predicting Page Views </li> <!-- Claire Tsao  ch5-->
+            <li> 使用R的經驗談 </li> <!-- Kristen Chan  -->
+        </ul>    
+    </li>
+    <li> 2015-04 [Machine Learning for Hackers]<!-- 20150427 -->
+        <ul class="task-list">
+            <li> Ranking: Priority Inbox </li> <!-- 李維怡 ch4  -->
+            <li> RGoogleAnalytics </li> <!-- Rachael Pei  -->
+        </ul>    
+    </li>
+    <li> 2015-03 [Machine Learning for Hackers]<!-- 20150330 -->
+        <ul class="task-list">
+            <li> Classification: Spam Filtering </li> <!-- 陳甜甜 ch3 -->
+            <li> 初學者時間 Coursera: R Programming </li> <!-- Ej Lin​ and YuYu Peng​ -->
+        </ul>    
+    </li>
+    <li> 2015-01 [Machine Learning for Hackers]<!-- 20150126 -->
+        <ul class="task-list">
+            <li> Data Exploration </li> <!-- Annie Liao ch2 -->
+            <li> 初學者時間 Coursera: R Programming </li> <!-- May -->
+            <li> 讓公民得到更有營養的資訊 </li>  <!-- Mindy Huang -->
+        </ul>    
+    </li>         
+</ul> 
+### 2014 <br>
+<ul class="task-list">
+    <li> 2014-12 [Machine Learning for Hackers]<!-- 201412 -->
+        <ul class="task-list">
+            <li> R 的基礎上手課程 </li> <!-- Yen 茹茵 -->
+            <li> 初學者時間 Coursera: R Programming </li> <!-- Racheal Pai  -->
+        </ul>    
+    </li> 
+    <li> 2014-11 [Start]<!-- 20141124 -->
+        <ul class="task-list">
+            <li> Machine Learning for Hacker 介紹 </li> 
+            <li> R 基本介紹- R studio </li>  
+        </ul>    
+    </li> 
 </ul>     
