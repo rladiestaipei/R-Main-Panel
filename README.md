@@ -1,4 +1,4 @@
-<h2> RLadies-Taipei </h2>
+<h2> R-Ladies-Taipei </h2>
 <p>
     <b>Mission</b><br>
         R-ladies Taipei是以女性為優先的R 語言學習社群。
