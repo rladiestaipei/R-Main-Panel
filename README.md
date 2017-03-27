@@ -1,4 +1,4 @@
-## RLadies-Taipei
+<h2> RLadies-Taipei </h2>
 <p>
     <b>Mission</b><br>
         R-ladies Taipei是以女性為優先的R 語言學習社群。
@@ -21,9 +21,10 @@
     </ul>
 </p>    
 <hr size="1">
-## Meetup
+<h2> Meetup </h2> 
 <!-- Main Panel , Lighting Talk  -->
-### 2017 <br>
+<h3> 2017 </h3>
+<br>
 <ul class="task-list">
     <li> 2017-02 [Cloud Platform Series]
         <ul class="task-list">
@@ -39,7 +40,8 @@
         </ul>
     </li>
 </ul>    
-### 2016 <br>
+<h3> 2016 </h3>
+<br>
 <ul class="task-list">
     <li> 2016-12 <!-- 20161205 -->
         <ul class="task-list">
@@ -93,7 +95,8 @@
         </ul>    
     </li>           
 </ul> 
-### 2015 <br>
+<h3> 2015 </h3>
+<br>
 <ul class="task-list">
     <li> 2015-12 [Machine Learning for Hackers]<!-- 20151228 -->
         <ul class="task-list">
@@ -145,7 +148,8 @@
         </ul>    
     </li>         
 </ul> 
-### 2014 <br>
+<h3> 2014 </h3>
+<br>
 <ul class="task-list">
     <li> 2014-12 [Machine Learning for Hackers]<!-- 201412 -->
         <ul class="task-list">
