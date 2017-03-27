@@ -24,7 +24,6 @@
 <h2> Meetup </h2> 
 <!-- Main Panel , Lighting Talk  -->
 <h3> 2017 </h3>
-<br>
 <ul class="task-list">
     <li> 2017-02 [Cloud Platform Series]
         <ul class="task-list">
@@ -41,7 +40,6 @@
     </li>
 </ul>    
 <h3> 2016 </h3>
-<br>
 <ul class="task-list">
     <li> 2016-12 <!-- 20161205 -->
         <ul class="task-list">
@@ -96,7 +94,6 @@
     </li>           
 </ul> 
 <h3> 2015 </h3>
-<br>
 <ul class="task-list">
     <li> 2015-12 [Machine Learning for Hackers]<!-- 20151228 -->
         <ul class="task-list">
@@ -149,7 +146,6 @@
     </li>         
 </ul> 
 <h3> 2014 </h3>
-<br>
 <ul class="task-list">
     <li> 2014-12 [Machine Learning for Hackers]<!-- 201412 -->
         <ul class="task-list">
