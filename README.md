@@ -27,7 +27,7 @@
 <ul class="task-list">
     <li> 2017-03 [Crawling Series]
         <ul class="task-list">
-            <li> <a href="https://drive.google.com/open?id=0B-P36xE97gjBQWpRUWdZSXZreVU" target="_blank">R 爬蟲 </a> </li>
+            <li> <a href="https://drive.google.com/open?id=0B-P36xE97gjBQWpRUWdZSXZreVU" target="_blank">R 爬蟲 </a> </li>
             <li> GitHub </li>
         </ul>    
     </li>
