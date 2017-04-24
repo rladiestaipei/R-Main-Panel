@@ -23,146 +23,241 @@
 <hr size="1">
 <h2> Meetup </h2> 
 <!-- Main Panel , Lighting Talk  -->
-<h3> 2017 </h3>
-<ul class="task-list">
-    <li> 2017-03 [Crawling Series]
+<h3>2017</h3>
+<h4>
+<ul class="task-list text-left" style='line-height:150%'>
+    <p>
+        <li> 2017-03 [Crawling Series]
+            <ul class="task-list">
+                <li> Sharon -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201703_RCrewling.pdf" target="_blank">R 爬蟲 </a> </li>
+                <li> Racheal Pai -- <a href="https://hackmd.io/p/r1S1mdR9l#/"> GitHub </a></li>
+            </ul>    
+        </li>
+    </p>    
+    <p>
+    <li> 2017-02  [Cloud Platform Series]
         <ul class="task-list">
-            <li> <a href="https://drive.google.com/open?id=0B-P36xE97gjBQWpRUWdZSXZreVU" target="_blank">R 爬蟲 </a> </li>
-            <li> GitHub </li>
+            <li> Ning -- Azure Machine Learning </li>
+            <li> Mia -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201702_AzureML-Feature%20Engineering.pdf" target="_blank">Azure Machine Learning - Feature Engineering </a> </li>
+            <li> Yen -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201702_R-Ladies%20Taipei%20How%20to%20Travel%20around%20the%20World%20with%20R-Ladies.pdf" target="_blank">R-Ladies Taipei How to Travel around the World with R-Ladies </a> </li>
         </ul>    
     </li>
-    <li> 2017-02 [Cloud Platform Series]
-        <ul class="task-list">
-            <li> Azure Machine Learning </li>
-            <li> <a href="https://drive.google.com/open?id=0B-P36xE97gjBYXVXSDBCMkJDZTA" target="_blank">Azure Machine Learning - Feature Engineering </a> </li>
-            <li> <a href="https://drive.google.com/open?id=0B-P36xE97gjBV000eFJXTlpZWlU" target="_blank">R-Ladies Taipei How to Travel around the World with R-Ladies </a> </li>
-        </ul>    
-    </li>
-    <li> 2017-01 [Cloud Platform Series]
+    </p>
+    <p>
+    <li> 2017-01  [Cloud Platform Series]
          <ul class="task-list">
-            <li> <a href="https://drive.google.com/open?id=0B-P36xE97gjBakh6cDZxelZYZFU" target="_blank">Shiny on Azure</a> </li>
-            <li> <a href="https://drive.google.com/open?id=0B-P36xE97gjBM3lHTDBYOUY2QkU" target="_blank">翻玩空氣盒子--監控空氣品質</a> </li>
+            <li> Kristen Chan -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201701_ShinyOnAzure.pdf" target="_blank">Shiny on Azure</a> </li>
+            <li> 謝欣紘 -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201701_空氣盒子之open%20data.pdf" target="_blank">翻玩空氣盒子--監控空氣品質</a> </li>
         </ul>
     </li>
-</ul>    
-<h3> 2016 </h3>
-<ul class="task-list">
+    </p>
+</ul>
+</h4>    
+<h3>2016</h3> 
+<h4>
+<ul class="task-list text-left" style='line-height:150%'>
+    <p>
     <li> 2016-12 <!-- 20161205 -->
         <ul class="task-list">
-            <li> 擁抱跨界力 – CS+X 的新方向 Working With JavaScript In R </li>
-            <li> Power BI with R </li>
+            <!-- Pecu -->
+            <li> Pecu -- <a href="https://github.com/pecu/RLadies" target="_blank">擁抱跨界力 – CS+X 的新方向 Working With JavaScript In R</a> </li>
+            <!-- Krsiten -->
+            <li> Kristen Chan -- Power BI with R </li>
         </ul>    
     </li>
-    <li> 2016-09 <!-- 20160926 Ching Chen -->
+    </p>
+    <p>
+    <li> 2016-09 <!-- 20160926 -->
         <ul class="task-list">
-            <li> 從Azure Machine Learning 進入機器學習 </li>  <!-- Ching Chen -->
+            <!-- Ching Chen -->
+            Ching Chen -- 從Azure Machine Learning 進入機器學習
+            <ul>
+                <li> <a href="https://onedrive.live.com/?authkey=%21ANWLdilJVySfp04&id=CA23266D8D86B36%2179702&cid=0CA23266D8D86B36" target="_blank"> Demo </a> </li>
+                <li> <a href="https://gallery.cortanaintelligence.com/Experiment/Tutorial-Building-a-classification-model-in-Azure-ML-18" target="_blank"> Tutorial </a> </li> 
+            </ul>
         </ul>    
     </li>
+    </p>
+    <p>
     <li> 2016-08  <!-- 20160829 -->
         <ul class="task-list">
-            <li> 運用 R 讀取開放資料 </li>  <!-- Lucy Chen -->
-            <li> ML on Azure </li>  <!-- 小石 -->
+            <!-- Lucy Chen -->
+            <li> Lucy Chen -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2016/201608_R_Crawler%20Sharing_lucychen.pdf" target="_blank"> 運用 R 讀取開放資料 </a> </li>
+            <!-- 小石 -->
+            <li> 小石 -- ML on Azure </li>  
+            <!-- ChiaChi -->
+            <li> ChiaChi -- <a href="https://www.slideshare.net/c3h3/etl-in-r" target="_blank"> ETL in R </a>  </li> 
         </ul>    
     </li>
+    </p>
+    <p>
     <li> 2016-07 <!-- 20160 -->
         <ul class="task-list">
-            <li> 作自己的氣象預言大師 </li> <!-- Olly -->
-            <li> 深度學習keras淺淺淺淺談與實做 </li> <!-- Ed -->
+            <!-- Olly -->
+            <li> Olly -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2016/201607_等雨停.pdf" target="_blank"> 作自己的氣象預言大師 </a> </li>
+            <!-- Ed -->
+            <li> Ed -- 深度學習keras淺淺淺淺談與實做 </li> 
         </ul>    
-    </li>  
+    </li>
+    </p>
+    <p>  
     <li> 2016-06 <!-- 20160627 -->
         <ul class="task-list">
-            <li> 看資料說故事——從《巴拿馬文件》談資料視覺化 </li> <!-- 孫玉峰  -->
+            <!-- 孫玉峰 -->
+            <li> 孫玉峰 -- <a href="http://slides.com/summitsuen/r-ladies-meetup#/" target="_blank"> 看資料說故事——從《巴拿馬文件》談資料視覺化 </a> </li>
         </ul>    
     </li>
+    </p>
+    <p>
     <li> 2016-05 <!-- 20160530 --> 
         <ul class="task-list">
-            <li> Spark Introduction </li> <!-- Erica Li -->
+            <!-- Erica Li -->
+            <li> Erica Li -- Spark Introduction </li> 
+            <!-- Kristen Chan -->
+            <li>Kristen Chan -- <a href="https://drive.google.com/file/d/0BwaSSRMiXlZkdnZ0dl9vZGhCUWs/view" target="_blank"> Rattle </a> </li>
         </ul>    
     </li>
+    </p>
+    <p>
     <li> 2016-04 <!-- 20160425 --> 
         <ul class="task-list">
-            <li> 我被工程師問的二個問題: 關於光學與GPS定位 </li> <!-- 昱璇 -->
-            <li> Xdite的課到底值不值得</li> <!-- Mindy Huang -->
+            <!-- 昱璇 -->
+            <li> 昱璇 -- 我被工程師問的二個問題: 關於光學與GPS定位 </li> 
+            <!-- Mindy Huang -->
+            <li> Mindy Huang -- Xdite的課到底值不值得</li> 
         </ul>    
-    </li> 
+    </li>
+    </p>
+    <p> 
     <li> 2016-03 <!-- 20160328 --> 
         <ul class="task-list">
-            <li> 運用R處理空間資料 </li> <!-- YuYu Peng -->
-            <li> Kyper 資料庫 </li> <!-- Yen -->
+            <!-- YuYu Peng -->
+            <li> YuYu Peng -- 運用R處理空間資料 </li> 
+            <!-- Yen -->
+            <li> Yen -- Kyper 資料庫 </li> 
         </ul>    
     </li>
+    </p>
+    <p>
     <li> 2016-01 [Machine Learning for Hackers] <!-- 20160125 --> 
         <ul class="task-list">
-            <li> Model Comparison </li> <!-- Kristen Chan  ch12-->
-            <li> Power Map </li> <!-- Ann Wu   -->
+            <!-- Kristen Chan  ch12-->
+            <li> Kristen Chan -- Model Comparison </li> 
+            <!-- Ann Wu -->
+            <li> Ann Wu -- Power Map </li> 
         </ul>    
-    </li>           
+    </li>
+    </p>           
 </ul> 
-<h3> 2015 </h3>
-<ul class="task-list">
+</h4>
+<h3>2015</h3>
+<h4>
+<ul class="task-list text-left" style='line-height:150%'>
+    <p>
     <li> 2015-12 [Machine Learning for Hackers]<!-- 20151228 -->
         <ul class="task-list">
-            <li> kNN: Recommendation Systems </li> <!-- May ch10 -->
+            <!-- May ch10 -->
+            <li> May -- kNN: Recommendation Systems </li> 
             <!-- Jolin Hsieh   -->
+            <li> Jolin Hsieh -- <a href="http://rpubs.com/jolin425425/RLadies20151228" target="_blank"> Data Visualization </a> </li>
         </ul>    
     </li>
+    </p>
+    <p>
     <li> 2015-10 [Machine Learning for Hackers]<!-- 20151026 -->
         <ul class="task-list">
-            <li> MDS: Visually Exploring US Senator Similarity </li> <!-- Mindy Huang ch9 -->
-            <li> Text Mining </li>  <!-- Wei Ho  -->  
+            <!-- Mindy Huang ch9 -->
+            <li> Mindy Huang -- MDS: Visually Exploring US Senator Similarity </li> 
+            <!-- Wei Ho  -->  
+            <li> Wei Ho -- Text Mining </li>  
         </ul>    
     </li>
+    </p>
+    <p>
     <li> 2015-07 [Machine Learning for Hackers]<!-- 20150729 -->
         <ul class="task-list">
-            <li> PCA: Building a Market Index </li> <!-- Ivy H. Tseng​ ch8  -->
-            <li> 基礎R語言與商業應用：第八章股票市場的預測 </li> <!-- Yen  -->
+            <!-- Ivy H. Tseng. ch8  -->
+            <li> Ivy H. Tseng. -- PCA: Building a Market Index </li> 
+            <!-- Yen  -->
+            <li> Yen -- 基礎R語言與商業應用：第八章股票市場的預測 </li> 
         </ul>    
     </li>
+    </p>
+    <p>
     <li> 2015-06 [Machine Learning for Hackers]<!-- 20150629 -->
         <ul class="task-list">
-            <li> Regularization: Text Regression </li> <!-- EJ Li  ch6-->
-            <li> Computer Vision </li> <!-- Ivy H. Tseng  -->
+            <!-- EJ Li  ch6-->
+            <li> EJ Li -- Regularization: Text Regression </li> 
+            <!-- Ivy H. Tseng  -->
+            <li> Ivy H. Tseng -- Computer Vision </li> 
         </ul>    
     </li>
+    </p>
+    <p>
     <li> 2015-05 [Machine Learning for Hackers]<!-- 20150525 -->
         <ul class="task-list">
-            <li> Regression: Predicting Page Views </li> <!-- Claire Tsao  ch5-->
-            <li> 使用R的經驗談 </li> <!-- Kristen Chan  -->
+            <!-- Claire Tsao  ch5-->
+            <li> Claire Tsao -- Regression: Predicting Page Views </li> 
+            <!-- Kristen Chan  -->
+            <li> Kristen Chan -- 使用R的經驗談 </li> 
         </ul>    
     </li>
+    </p>
+    <p>
     <li> 2015-04 [Machine Learning for Hackers]<!-- 20150427 -->
         <ul class="task-list">
-            <li> Ranking: Priority Inbox </li> <!-- 李維怡 ch4  -->
-            <li> RGoogleAnalytics </li> <!-- Rachael Pei  -->
+            <!-- 李維怡 ch4  -->
+            <li> 李維怡 -- Ranking: Priority Inbox </li> 
+            <!-- Rachael Pei  -->
+            <li> Rachael Pei -- RGoogleAnalytics </li> 
         </ul>    
     </li>
+    </p>
+    <p>
     <li> 2015-03 [Machine Learning for Hackers]<!-- 20150330 -->
         <ul class="task-list">
-            <li> Classification: Spam Filtering </li> <!-- 陳甜甜 ch3 -->
-            <li> 初學者時間 Coursera: R Programming </li> <!-- Ej Lin​ and YuYu Peng​ -->
+            <!-- 陳甜甜 ch3 -->
+            <li> 陳甜甜 -- Classification: Spam Filtering </li> 
+            <!-- Ej Lin and YuYu Peng -->
+            <li> Ej Lin and YuYu Peng -- 初學者時間 Coursera: R Programming </li> 
         </ul>    
     </li>
+    </p>
+    <p>
     <li> 2015-01 [Machine Learning for Hackers]<!-- 20150126 -->
         <ul class="task-list">
-            <li> Data Exploration </li> <!-- Annie Liao ch2 -->
-            <li> 初學者時間 Coursera: R Programming </li> <!-- May -->
-            <li> 讓公民得到更有營養的資訊 </li>  <!-- Mindy Huang -->
+            <!-- Annie Liao ch2 -->
+            <li> Annie Liao -- Data Exploration </li>
+            <!-- May -->
+            <li> May -- 初學者時間 Coursera: R Programming </li> 
+            <!-- Mindy Huang -->
+            <li> Mindy Huang -- 讓公民得到更有營養的資訊 </li>  
         </ul>    
-    </li>         
+    </li>
+    </p>         
 </ul> 
-<h3> 2014 </h3>
-<ul class="task-list">
+</h4>
+<h3>2014</h3>
+<h4>
+<ul class="task-list text-left" style='line-height:150%'>
+    <p>
     <li> 2014-12 [Machine Learning for Hackers]<!-- 201412 -->
         <ul class="task-list">
-            <li> R 的基礎上手課程 </li> <!-- Yen 茹茵 -->
-            <li> 初學者時間 Coursera: R Programming </li> <!-- Racheal Pai  -->
+            <!-- Yen 茹茵 -->
+            <li> Yen and 茹茵 -- R 的基礎上手課程 </li> 
+            <!-- Racheal Pai  -->
+            <li> Racheal Pai -- 初學者時間 Coursera: R Programming </li> 
         </ul>    
-    </li> 
+    </li>
+    </p>
+    <p> 
     <li> 2014-11 [Start]<!-- 20141124 -->
         <ul class="task-list">
             <li> Machine Learning for Hacker 介紹 </li> 
             <li> R 基本介紹- R studio </li>  
         </ul>    
-    </li> 
-</ul>     
+    </li>
+    </p> 
+</ul> 
+</h4>  
+
