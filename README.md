@@ -23,11 +23,19 @@
 <hr size="1">
 <h2> Meetup </h2> 
 <!-- Main Panel , Lighting Talk  -->
-<h3>2017</h3>
+<h3> 2017 </h3>
 <h4>
 <ul class="task-list text-left" style='line-height:150%'>
+   <p>
+        <li> 2017-04 [Visualization Series] <!-- 20170424 -->
+            <ul class="task-list">
+                <li> 阿光 -- <a href="http://slides.com/nondayo/nba#/" target="_blank">NBA 視覺化 </a> </li>
+                <li> 智程 -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201704_Kaggle比賽介紹_漁業監控.pdf"> Kaggle漁業監控心得分享 </a></li>
+            </ul>    
+        </li>
+    </p> 
     <p>
-        <li> 2017-03 [Crawling Series]
+        <li> 2017-03 [Crawling Series] <!-- 20170327 -->
             <ul class="task-list">
                 <li> Sharon -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201703_RCrewling.pdf" target="_blank">R 爬蟲 </a> </li>
                 <li> Racheal Pai -- <a href="https://hackmd.io/p/r1S1mdR9l#/"> GitHub </a></li>
@@ -35,7 +43,7 @@
         </li>
     </p>    
     <p>
-    <li> 2017-02  [Cloud Platform Series]
+    <li> 2017-02  [Cloud Platform Series] <!-- 20170306 -->
         <ul class="task-list">
             <li> Ning -- Azure Machine Learning </li>
             <li> Mia -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201702_AzureML-Feature%20Engineering.pdf" target="_blank">Azure Machine Learning - Feature Engineering </a> </li>
@@ -44,7 +52,7 @@
     </li>
     </p>
     <p>
-    <li> 2017-01  [Cloud Platform Series]
+    <li> 2017-01  [Cloud Platform Series] <!-- 20170206 -->
          <ul class="task-list">
             <li> Kristen Chan -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201701_ShinyOnAzure.pdf" target="_blank">Shiny on Azure</a> </li>
             <li> 謝欣紘 -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201701_空氣盒子之open%20data.pdf" target="_blank">翻玩空氣盒子--監控空氣品質</a> </li>
@@ -53,11 +61,11 @@
     </p>
 </ul>
 </h4>    
-<h3>2016</h3> 
+<h3> 2016 </h3> 
 <h4>
 <ul class="task-list text-left" style='line-height:150%'>
-    <p>
-    <li> 2016-12 <!-- 20161205 -->
+   <p>
+   <li> 2016-12 <!-- 20161205 -->
         <ul class="task-list">
             <!-- Pecu -->
             <li> Pecu -- <a href="https://github.com/pecu/RLadies" target="_blank">擁抱跨界力 – CS+X 的新方向 Working With JavaScript In R</a> </li>
