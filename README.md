@@ -33,6 +33,14 @@
                 <li> 盧森 -- ggplot2 </li>
             </ul>    
         </li>
+   </p>    
+   <p>
+        <li> 2017-05 [Visualization Series] <!-- 20170605 -->
+            <ul class="task-list">
+                <li> Claire -- 新聞視覺化 </li>
+                <li> 盧森 -- ggplot2 </li>
+            </ul>    
+        </li>
    </p> 
    <p>
         <li> 2017-04 [Visualization Series] <!-- 20170424 -->
