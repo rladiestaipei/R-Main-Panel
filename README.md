@@ -27,7 +27,7 @@
 <h4>
 <ul class="task-list text-left" style='line-height:150%'>
     <p>
-        <li> 2017-06 [Special Case Series] <!-- 20170626 -->
+        <li> 2017-06 [Special Case Series] <!-- 20170626 -->
             <ul class="task-list">
                 <li> Pecu -- <a href="https://docs.google.com/presentation/d/1Czilg1uRhiQeA93v5oejuo5ptm9E08B-M6txYXMjLKU/edit#slide=id.p">Digital Humanities in R</a> </li>
                 <li> Shengyou Fan -- <a href="https://www.slideshare.net/shengyou/mon-i-got-an-elephant-friend">媽，我交了個大象朋友</a> </li>
@@ -35,7 +35,7 @@
             </ul>    
         </li>
    </p>
-   <p>
+   <p>
         <li> 2017-05 [Visualization Series] <!-- 20170605 -->
             <ul class="task-list">
                 <li> Claire -- 新聞視覺化 </li>
