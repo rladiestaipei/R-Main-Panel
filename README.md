@@ -26,8 +26,8 @@
 <h3> 2017 </h3>
 <h4>
 <ul class="task-list text-left" style='line-height:150%'>
-   <p>
-        <li> 2017-07 [Security Series] <!-- 20170731 -->
+<p>
+<li> 2017-07 [Security Series] <!-- 20170731 -->
             <ul class="task-list">
                 <li> 黃建笙 -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201707_如何以R做為事件蒐集及分析的利器.pdf">資安與R -- 如何以R做為事件蒐集及分析的利器</a> </li>
                 <li> 王斯霈 -- <a href="https://rladiestaipei.github.io/R-Main-Panel/2017/201707_dplyr.html#/">dplyr</a> </li>
