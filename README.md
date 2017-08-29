@@ -26,25 +26,25 @@
 <h3> 2017 </h3>
 <h4>
 <ul class="task-list text-left" style='line-height:150%'>
-<p>
+    <p>
 <li> 2017-08 [Text Mining Series] <!-- 20170828 -->
             <ul class="task-list">
-                <li> 莊舒媛 -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201708_R文字雲案例.pdf">R與中文分詞 -- Word cloud in R</a> </li>
+                <li> 莊舒媛 -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201708_R文字雲案例.pdf">R與中文分詞 -- Word cloud in R</a> </li>
                 <li> Pei Lee -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201708_the_GDELT_Project.pdf">從外國語言到程式語言 & 全世界最大的社會事件開放資料庫 GDELT</a> </li>
             </ul>    
         </li>
-   </p>
-   <p>
-<li> 2017-07 [Security Series] <!-- 20170731 -->
+    </p>
+    <p>
+        <li> 2017-07 [Security Series] <!-- 20170731 -->
             <ul class="task-list">
-                <li> 黃建笙 -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201707_如何以R做為事件蒐集及分析的利器.pdf">資安與R -- 如何以R做為事件蒐集及分析的利器</a> </li>
+                <li> 黃建笙 -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201707_如何以R做為事件蒐集及分析的利器.pdf">資安與R -- 如何以R做為事件蒐集及分析的利器</a> </li>
                 <li> 王斯霈 -- <a href="https://rladiestaipei.github.io/R-Main-Panel/2017/201707_dplyr.html#/">dplyr</a> </li>
                 <li> Kristen Chan -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201707_rladies_kaggle_10mins_show.pdf">R-LADIES TAIPEI KAGGLE 10 mins quick show</a> </li>
                 <li> 家齊 -- <a href="https://docs.google.com/presentation/d/1hzofAtglyMhhonWMWIB0eFEuE0ZQLMZF5gRTX8-JXGo/edit#slide=id.g24285e3915_63_5">Bot Hackathon workshop </a> </li>
             </ul>    
         </li>
-   </p>
-   <p>
+    </p>
+    <p>
         <li> 2017-06 [Special Case Series] <!-- 20170626 -->
             <ul class="task-list">
                 <li> Pecu -- <a href="https://docs.google.com/presentation/d/1Czilg1uRhiQeA93v5oejuo5ptm9E08B-M6txYXMjLKU/edit#slide=id.p">Digital Humanities in R</a> </li>
@@ -52,16 +52,16 @@
                 <li> 黃建笙 -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201706_如何快速找出有問題的入侵記錄.pdf">如何快速尋出有問題的入侵記錄</a>  </li>
             </ul>    
         </li>
-   </p>    
-   <p>
+    </p>    
+    <p>
         <li> 2017-05 [Visualization Series] <!-- 20170605 -->
             <ul class="task-list">
                 <li> Claire -- 新聞視覺化 </li>
                 <li> 盧森 -- ggplot2 </li>
             </ul>    
         </li>
-   </p> 
-   <p>
+    </p> 
+    <p>
         <li> 2017-04 [Visualization Series] <!-- 20170424 -->
             <ul class="task-list">
                 <li> 阿光 -- <a href="http://slides.com/nondayo/nba#/" target="_blank">NBA 視覺化 </a> </li>
