@@ -27,6 +27,14 @@
 <h4>
 <ul class="task-list text-left" style='line-height:150%'>
 <p>
+<li> 2017-08 [Text Mining Series] <!-- 20170828 -->
+            <ul class="task-list">
+                <li> 莊舒媛 -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201708_R文字雲案例.pdf">R與中文分詞 -- Word cloud in R</a> </li>
+                <li> Pei Lee -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201708_the_GDELT_Project.pdf">從外國語言到程式語言 & 全世界最大的社會事件開放資料庫 GDELT</a> </li>
+            </ul>    
+        </li>
+   </p>
+   <p>
 <li> 2017-07 [Security Series] <!-- 20170731 -->
             <ul class="task-list">
                 <li> 黃建笙 -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201707_如何以R做為事件蒐集及分析的利器.pdf">資安與R -- 如何以R做為事件蒐集及分析的利器</a> </li>
@@ -35,7 +43,7 @@
                 <li> 家齊 -- <a href="https://docs.google.com/presentation/d/1hzofAtglyMhhonWMWIB0eFEuE0ZQLMZF5gRTX8-JXGo/edit#slide=id.g24285e3915_63_5">Bot Hackathon workshop </a> </li>
             </ul>    
         </li>
-   </p> 
+   </p>
    <p>
         <li> 2017-06 [Special Case Series] <!-- 20170626 -->
             <ul class="task-list">
