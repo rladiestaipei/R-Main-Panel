@@ -27,7 +27,25 @@
 <h4>
 <ul class="task-list text-left" style='line-height:150%'>
     <p>
-<li> 2017-08 [Text Mining Series] <!-- 20170828 -->
+        <li> 2017-10 [Open Data Series] <!-- 20171030 -->
+            <ul class="task-list">
+                <li> Luffy -- 如何打場黑客松 </li>
+                <li> 虹文 -- 透明足跡介紹-環保相關OpenData </li>
+                <li> Joey -- 用人話寫程式的活文件 </li>
+            </ul>    
+        </li>
+    </p>
+    <p>
+        <li> 2017-09 [Crawler Series] <!-- 20170925 -->
+            <ul class="task-list">
+                <li> Mars -- <a href="https://docs.google.com/presentation/d/13OdpytiSowioouyF2XIJr778-mcY3V8FfpKYeSycxsM/edit#slide=id.g2759e818b0_1_0">如何用數據打造最貼心的旅遊搜尋引擎</a> </li>
+                <li> 姿君 --  Microsoft Azure Cognitive Services </li>
+                <li> Claire --  用 power BI 探索資料 </li>
+            </ul>    
+        </li>
+    </p>
+    <p>
+        <li> 2017-08 [Text Mining Series] <!-- 20170828 -->
             <ul class="task-list">
                 <li> 莊舒媛 -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201708_R文字雲案例.pdf">R與中文分詞 -- Word cloud in R</a> </li>
                 <li> Pei Lee -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201708_the_GDELT_Project.pdf">從外國語言到程式語言 & 全世界最大的社會事件開放資料庫 GDELT</a> </li>
