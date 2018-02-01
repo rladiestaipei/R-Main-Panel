@@ -23,7 +23,7 @@
 <hr size="1">
 <h2> Meetup </h2> 
 <!-- Main Panel , Lighting Talk  -->
-<h3> 2017 </h3>
+<h3> 2018 </h3>
 <h4>
 <ul class="task-list text-left" style='line-height:150%'>
     <p>
@@ -35,6 +35,11 @@
             </ul>    
         </li>
     </p>
+</ul>
+</h4>    
+<h3> 2017 </h3>
+<h4>
+<ul class="task-list text-left" style='line-height:150%'>
     <p>
         <li> 2017-12 [Semantic analysis Series] <!-- 20171218 -->
             <ul class="task-list">
