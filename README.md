@@ -27,6 +27,24 @@
 <h4>
 <ul class="task-list text-left" style='line-height:150%'>
     <p>
+        <li> 2018-01 [Visualization Series] <!-- 20180129 -->
+            <ul class="task-list">
+                <li> 謝包妹 -- 地理圖形類特殊檔案  </li>
+                <li> David Dong -- 如何花15分鐘完成一個Line bot (Line對談機器人)  </li>
+                <li> Elias Chiu -- 學習R和又學習 python 如何上手 </li>
+            </ul>    
+        </li>
+    </p>
+    <p>
+        <li> 2017-12 [Semantic analysis Series] <!-- 20171218 -->
+            <ul class="task-list">
+                <li> Hao-Wei Her -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2017/201712_語意角色標註.pdf">語意角色標註(semantic role labeling)</a>  </li>
+                <li> PeiLee -- AIDS 年會分享 </li>
+                <li> Felaray -- Azure ML 與 Excel 搭配術 </li>
+            </ul>    
+        </li>
+    </p>
+    <p>
         <li> 2017-10 [Open Data Series] <!-- 20171030 -->
             <ul class="task-list">
                 <li> Luffy -- 如何打場黑客松 </li>
