@@ -27,6 +27,19 @@
 <h4>
 <ul class="task-list text-left" style='line-height:150%'>
     <p>
+        <li> 2018-04 [Special Case Series] <!-- 20180430 -->
+            <ul class="task-list">
+                <li> Angie -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2018/201804_DataScience_and_DataDrivenApproach.pdf">如何在組織內推動數據趨動決策-Data Science & Data Driven Approach</a> </li>
+                <li> 賴小賴 -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2018/201804_%E7%95%B6NET%E9%81%87%E4%B8%8AR.pdf">當 .NET 遇到 R</a> </li>
+                <li> Carl -- <a href="https://github.com/bcbcarl/docker-rladies-taipei">Docker 初探</a> </li>
+            </ul>
+        </li>
+    </p>
+</ul>
+</h4>
+<h4>
+<ul class="task-list text-left" style='line-height:150%'>
+    <p>
         <li> 2018-03 [Container Series] <!-- 20180326 -->
             <ul class="task-list">
                 <li> Will 保哥 (黃保翕) -- 學習 Kubernetes 之前的兩三事  </li>
