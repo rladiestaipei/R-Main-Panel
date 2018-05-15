@@ -27,6 +27,19 @@
 <h4>
 <ul class="task-list text-left" style='line-height:150%'>
     <p>
+        <li> 2018-03 [Container Series] <!-- 20180326 -->
+            <ul class="task-list">
+                <li> Will 保哥 (黃保翕) -- 學習 Kubernetes 之前的兩三事  </li>
+                <li> James Fu -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2018/201803_SQL%E6%92%B0%E5%AF%AB%E5%B0%8F%E7%A7%98%E8%A8%A3.pdf">SQL 撰寫小秘訣</a> </li>
+                <li> Rachael Pai -- 來去世界最先進的超市買東西 </li>
+            </ul>
+        </li>
+    </p>
+</ul>
+</h4>
+<h4>
+<ul class="task-list text-left" style='line-height:150%'>
+    <p>
         <li> 2018-02 [Special Series] <!-- 20180226 -->
             <ul class="task-list">
                 <li> HC -- 資料與新聞  </li>
