@@ -27,6 +27,18 @@
 <h4>
 <ul class="task-list text-left" style='line-height:150%'>
     <p>
+        <li> 2018-05 [AI Series] <!-- 20180528 -->
+            <ul class="task-list">
+                <li> 魚紙鈔 -- Azure IoT Edge with AI </li>
+                <li> 胡百敬 -- BI 與 Power BI </li>
+            </ul>
+        </li>
+    </p>
+</ul>
+</h4>
+<h4>
+<ul class="task-list text-left" style='line-height:150%'>
+    <p>
         <li> 2018-04 [Special Case Series] <!-- 20180430 -->
             <ul class="task-list">
                 <li> Angie -- <a href="https://github.com/rladiestaipei/R-Main-Panel/blob/master/2018/201804_DataScience_and_DataDrivenApproach.pdf">如何在組織內推動數據趨動決策-Data Science & Data Driven Approach</a> </li>
