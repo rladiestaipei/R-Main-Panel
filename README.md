@@ -27,6 +27,18 @@
 <h4>
 <ul class="task-list text-left" style='line-height:150%'>
     <p>
+        <li> 2018-06 [Machine Learning Series] <!-- 20180625 -->
+            <ul class="task-list">
+                <li> Ching Chen -- Time series prediction 研究分享 </li>
+                <li> Dana Huang -- <a href="https://github.com/rladiestaipei/R-basic/blob/master/201806_R%E8%88%87Tableau.pdf">Tableau with R</a> </li>
+            </ul>
+        </li>
+    </p>
+</ul>
+</h4>
+<h4>
+<ul class="task-list text-left" style='line-height:150%'>
+    <p>
         <li> 2018-05 [AI Series] <!-- 20180528 -->
             <ul class="task-list">
                 <li> 魚紙鈔 -- Azure IoT Edge with AI </li>
