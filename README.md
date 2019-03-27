@@ -27,6 +27,17 @@
 <h4>
 <ul class="task-list text-left" style='line-height:150%'>
     <p>
+        <li> 201902 [Study Series] <!-- 20190225 -->
+            <ul class="task-list">
+                <li> Eric ShangKuan (@ericsk) -- R ladies x Google Cloud Study Jam </li>
+            </ul>
+        </li>
+    </p>
+</ul>
+</h4>
+<h4>
+<ul class="task-list text-left" style='line-height:150%'>
+    <p>
         <li> 201901 [GIS Series] <!-- 20190128 -->
             <ul class="task-list">
                 <li> 蔡咏諭 -- 政府開放資料與地理資訊系統的串連應用 </li>
@@ -36,6 +47,7 @@
     </p>
 </ul>
 </h4>
+<br>
 <h3> 2018 </h3>
 <h4>
 <ul class="task-list text-left" style='line-height:150%'>
@@ -171,7 +183,8 @@
         </li>
     </p>
 </ul>
-</h4>    
+</h4>  
+<br>
 <h3> 2017 </h3>
 <h4>
 <ul class="task-list text-left" style='line-height:150%'>
