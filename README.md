@@ -29,7 +29,7 @@
     <p>
         <li> 2018-12 [Visualization Series] <!-- 20181224 -->
             <ul class="task-list">
-                <li> Claire Tsao -- <a href="https://rfrd-tw.github.io/" 公投資料視覺化與選舉分析</a> </li>
+                <li> Claire Tsao -- <a href="https://rfrd-tw.github.io/"> 公投資料視覺化與選舉分析</a> </li>
             </ul>
         </li>
     </p>
