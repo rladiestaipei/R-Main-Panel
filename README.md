@@ -27,6 +27,17 @@
 <h4>
 <ul class="task-list text-left" style='line-height:150%'>
     <p>
+        <li> 201906 [Data Series] <!-- 20190617 -->
+            <ul class="task-list">
+                <li> Jack Tsai -- 平行化計算在電信資料的應用 </li>
+            </ul>
+        </li>
+    </p>
+</ul>
+</h4>
+<h4>
+<ul class="task-list text-left" style='line-height:150%'>
+    <p>
         <li> 201905 [Data Series] <!-- 20190527 -->
             <ul class="task-list">
                 <li> 邱宏瑋(Hwchiu) -- 從網路封包看待資料科學的應用 </li>
